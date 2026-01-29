@@ -1,87 +1,54 @@
-# Hi 👋, I'm Kushagra Agarwal
-
-🚀 Full Stack Developer | MERN Stack Enthusiast | Automation Builder | Cybersecurity Explorer  
+🚀 Full Stack Developer | MERN Stack Enthusiast | Automation Builder | Cybersecurity Explorer
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 Engineering Student (Graduating 2027)
-- 💻 Passionate about building **real-world scalable web applications**
-- 🌐 Focused on **Full Stack Development (MERN Stack)**
-- 🤖 Interested in **Automation Systems, AI Agents & Cybersecurity Tools**
-- 🌍 Preparing for **Global Tech Opportunities / Study Abroad**
+🎓 Engineering Student (Graduating 2027)  
+💻 Passionate about building real-world scalable web applications  
+🌐 Focused on Full Stack Development (MERN Stack)  
+🤖 Interested in Automation Systems, AI Agents & Cybersecurity Tools  
+🌍 Preparing for Global Tech Opportunities / Study Abroad  
 
-I love building systems that are **useful, intelligent, and production-ready** rather than just demo projects.
+I love building systems that are useful, intelligent, and production-ready rather than just demo projects.
 
 ---
 
 ## 🛠 Tech Stack
 
-### 👨‍💻 Languages
-- JavaScript (Primary)
-- TypeScript
-- HTML5
-- CSS3
-- SQL
-- Java (Working Knowledge)
-- C++ (Problem Solving / DSA)
+**Languages:**  
+JavaScript (Primary), TypeScript, HTML5, CSS3, SQL, Java (Working Knowledge), C++ (DSA)
+
+**Frontend:**  
+React.js, Tailwind CSS, Context API, Responsive Design
+
+**Backend:**  
+Node.js, Express.js, REST APIs, Authentication Systems, WebSockets (Socket.IO)
+
+**Databases:**  
+MongoDB, PostgreSQL, SQL Query Optimization
+
+**Tools & Platforms:**  
+Git, GitHub, Linux (Debian), Postman, Kaggle, Cloud Basics, Networking
 
 ---
-
-### ⚡ Frontend
-- React.js
-- Tailwind CSS
-- Context API
-- Responsive Design
-
----
-
-### 🔧 Backend
-- Node.js
-- Express.js
-- REST APIs
-- Authentication Systems
-- WebSockets (Socket.IO)
-
----
-
-### 🗄 Database
-- MongoDB
-- PostgreSQL
-- SQL Query Optimization
-
----
-
-### 🧰 Tools & Platforms
-- Git & GitHub
-- Linux (Debian)
-- Postman
-- Kaggle (Dataset Work)
-- Cloud Basics
-- Networking
-
----
-
-
 
 ## 🌱 Currently Learning
 
-- Advanced Fullstack Architecture
-- Scalable Backend Design
-- AI Agents + Automation Systems
-- System Design Fundamentals
+- Advanced Fullstack Architecture  
+- Scalable Backend Design  
+- AI Agents + Automation Systems  
+- System Design Fundamentals  
 
 ---
 
-
 ## 💡 Areas of Interest
 
-- Automation Systems
-- Cybersecurity
-- AI + Developer Productivity
-- Financial Tech
-- Scalable SaaS Products
+- Automation Systems  
+- Cybersecurity  
+- AI + Developer Productivity  
+- Financial Tech  
+- Scalable SaaS Products  
 
 ---
 
@@ -96,16 +63,10 @@ I love building systems that are **useful, intelligent, and production-ready** r
 
 ## 🤝 Let's Connect
 
-- 💼 Open to Collaboration
-- 🚀 Always Interested in Building Real Products
-- 📚 Always Learning
+💼 Open to Collaboration  
+🚀 Always Interested in Building Real Products  
+📚 Always Learning  
 
 ---
 
 ⭐ *"Build things that matter. Optimize later. Scale when needed."*
-
-
-<!---
-heyitsk/heyitsk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
